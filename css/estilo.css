@@ -1,6 +1,15 @@
 *{margin: 0;
 padding: 0;}
+body {background-image: linear-gradient(135deg, #fcf0e3 0%, #fffdfb 100%);}
 
 .titulo{ font-size: 5rem;
 text-decoration: underline;
 left: 5px;}
+
+
+.galeria img {box-shadow: 0 8px 10px -4px rgba(0,0,0,.6);
+    border-radius: 15px;}
+
+.galeria .col { margin-bottom: 20px;}
+
+
